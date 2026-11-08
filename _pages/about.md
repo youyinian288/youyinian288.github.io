@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home / 首页
+title: Home
 permalink: /
 nav: true
 nav_order: 1
