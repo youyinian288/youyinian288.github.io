@@ -2,19 +2,19 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: 尤运宁 # the website title (if blank, full name will be used instead)
-first_name: 尤
+title: 徐行 XUXING # the website title (if blank, full name will be used instead)
+first_name: 徐行
 middle_name: ''
-last_name: 运宁
+last_name: ''
 contact_note: >
-  欢迎通过邮箱联系我：youyunning@cug.edu.cn
+  武汉伊斯特有限公司 / Wuhan Yisite Co., Ltd.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  武汉多比特广告变现部门全栈工程师尤运宁的个人主页，关注大模型基础设施、Agent 产品设计与源码实现。
+  徐行（XUXING）是武汉伊斯特有限公司的产品品牌，专注于打造简单、可靠、真正有用的数字产品。
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: 尤运宁, Agent, vLLM, kvcached, Pi Agent, Claude Code, iOS, Swift, portfolio # add your own keywords or leave empty
+keywords: 徐行, XUXING, 武汉伊斯特有限公司, Wuhan Yisite, products, software # add your own keywords or leave empty
 lang: zh-CN # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: openai.svg # favicon stored in /assets/img/
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.

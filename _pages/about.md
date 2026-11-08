@@ -1,16 +1,25 @@
 ---
 layout: page
-title: 产品主页
+title: Home / 首页
 permalink: /
-nav: false
+nav: true
+nav_order: 1
 ---
 
-## 用产品解决真实问题
+## 徐行 XUXING
 
-我们专注于打造简单、可靠、真正有用的数字产品，帮助用户更高效地完成工作与生活中的具体任务。
+### 武汉伊斯特有限公司
 
-## 产品
+### Wuhan Yisite Co., Ltd.
 
-浏览我们的产品，了解每款产品的功能与使用方式。
+徐行是武汉伊斯特有限公司旗下的产品品牌，专注于打造简单、可靠、真正有用的数字产品。
 
-[查看全部产品](/projects/){: .btn .btn-primary }
+XUXING is the product brand of Wuhan Yisite Co., Ltd. We build simple, reliable, and genuinely useful digital products.
+
+## 我们的方向 / What We Build
+
+面向工作与生活中的真实需求，持续打造易用、清晰、高效的产品。
+
+We create clear, efficient, and easy-to-use products for real needs in work and everyday life.
+
+[浏览产品 / Explore Products](/projects/){: .btn .btn-primary }
