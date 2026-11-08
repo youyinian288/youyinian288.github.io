@@ -10,10 +10,10 @@ permalink: /
 
 ### Wuhan Yisite Co., Ltd.
 
-XUXING is the product brand of Wuhan Yisite Co., Ltd. We build simple, reliable, and genuinely useful digital products.
+XUXING is an AI-native company and the product brand of Wuhan Yisite Co., Ltd. We create thoughtful products for the Apple ecosystem.
 
 ## What We Build
 
-We create clear, efficient, and easy-to-use products for real needs in work and everyday life.
+We build intuitive products for Apple platforms, bringing AI into experiences that make work and everyday life simpler.
 
 [Explore Products]({{ '/projects/' | relative_url }}){: .btn .btn-primary }
