@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>四色半圆风车图标</title>
+  <desc>四片半圆叶片，青绿、橙黄、浅绿和蓝色，透明背景。</desc>
+  <g transform="translate(256 256)">
+    <path fill="#02B496" d="M -4 -7 L -211.846097 -127 A 120 120 0 0 1 -4 -7 Z"/>
+    <path fill="#FDA401" transform="rotate(90)" d="M -4 -7 L -211.846097 -127 A 120 120 0 0 1 -4 -7 Z"/>
+    <path fill="#91D53E" transform="rotate(180)" d="M -4 -7 L -211.846097 -127 A 120 120 0 0 1 -4 -7 Z"/>
+    <path fill="#0163AA" transform="rotate(270)" d="M -4 -7 L -211.846097 -127 A 120 120 0 0 1 -4 -7 Z"/>
+  </g>
+</svg>
