@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Products / 产品
+title: Products
 permalink: /projects/
 description: 徐行正在打造的产品 / Products by XUXING.
 nav: true

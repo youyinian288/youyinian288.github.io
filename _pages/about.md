@@ -2,8 +2,6 @@
 layout: page
 title: Home
 permalink: /
-nav: true
-nav_order: 1
 ---
 
 ## 徐行 XUXING
