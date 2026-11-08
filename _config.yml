@@ -2,20 +2,20 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: 徐行 XUXING # the website title (if blank, full name will be used instead)
-first_name: 徐行
+title: XUXING 徐行 # the website title (if blank, full name will be used instead)
+first_name: XUXING 徐行
 middle_name: ''
 last_name: ''
 contact_note: >
   武汉伊斯特有限公司 / Wuhan Yisite Co., Ltd.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  徐行（XUXING）是武汉伊斯特有限公司的产品品牌，专注于打造简单、可靠、真正有用的数字产品。
+  XUXING is the product brand of Wuhan Yisite Co., Ltd., creating simple and useful digital products.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: 徐行, XUXING, 武汉伊斯特有限公司, Wuhan Yisite, products, software # add your own keywords or leave empty
-lang: zh-CN # the language of your site (for example: en, fr, cn, ru, etc.)
+keywords: XUXING, Wuhan Yisite, products, software # add your own keywords or leave empty
+lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: xuxing-pinwheel.svg # favicon stored in /assets/img/
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
 
@@ -136,8 +136,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: 我的博客 # blog_name will be displayed in your blog page
-blog_description: 记录和分享
+blog_name: Blog # blog_name will be displayed in your blog page
+blog_description: News and insights
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 

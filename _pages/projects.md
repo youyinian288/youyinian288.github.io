@@ -2,7 +2,7 @@
 layout: page
 title: Products
 permalink: /projects/
-description: 徐行正在打造的产品 / Products by XUXING.
+description: Products by XUXING.
 nav: true
 nav_order: 2
 display_categories: [work]
