@@ -14,4 +14,4 @@ Easy Resume is an iOS resume tool for job seekers. It helps users organize their
 ## Policies
 
 - [Privacy Policy]({{ '/easy-resume/privacy/' | relative_url }})
-- [Terms of Use](https://doc-hosting.flycricket.io/easyresune-terms-of-use/d2dd9036-6be6-47dd-8551-eaaf79dac4a8/terms)
+- [Terms of Use]({{ '/easy-resume/terms/' | relative_url }})
