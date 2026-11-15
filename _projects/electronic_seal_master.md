@@ -2,7 +2,7 @@
 layout: page
 title: E-Seal Master
 description: A practical tool for digital signatures, stamps, and seal creation.
-img: assets/img/electronic-seal-master.png
+img: assets/img/electronic-seal-master-warm.png
 importance: 2
 category: work
 ---
